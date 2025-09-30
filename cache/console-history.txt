@@ -1,0 +1,65 @@
+duration
+const duration = await vault.lockDuration();
+vault
+Vault.address
+vault
+const vault = Vault.attach(vaultAddress);
+const Vault = await ethers.getContractFactory("Vault");
+const vaultAddress = "0x5fbdb2315678afecb367f032d93f642f64180aa3";
+Vault
+const Vault = await ethers.getContractFactory("Vault");
+Vault
+Vault.address
+Vault
+Vault.address
+Vault
+const Vault = await ethers.getContractFactory("Vault");
+await vault.connect(bob).deposit({ value: ethers.parseEther("5690") });
+bob
+await vault.connect(bob).deposit({ value: ethers.parseEther("5690") });
+await vault.connect(alice).deposit({ value: ethers.parseEther("5690") });
+await bob_vault.deposit({ value: ethers.parseEther("1200") });
+await bob_vault.deposit({ value: ethers.parseEther("12") });
+const bob_vault = Vault.attach(bob.address);
+const Vault = await ethers.getContractFactory("Vault");
+const [tom, bob] = await ethers.getSigners();
+const [alice, bob] = await ethers.getSigners();
+delete alice
+const [alice, bob] = await ethers.getSigners();
+alice = undefined
+const [alice, bob] = await ethers.getSigners();
+    const [alice, bob] = await ethers.getSigners();
+for (const [i, acc] of signers.entries()) {const balance = await ethers.provider.getBalance(acc.address);console.log(`Compte #${i}: ${acc.address} - Solde: ${ethers.formatEther(balance)} ETH`);}
+const signers = await ethers.getSigners();
+for (const [i, acc] of accounts.entries()) {const balance = await ethers.provider.getBalance(acc.address);console.log(`Compte #${i}: ${acc.address} - Solde: ${ethers.formatEther(balance)} ETH`);}
+alice.address
+alice
+const [owner, alice] = await ethers.getSigners();
+for (const [i, acc] of accounts.entries()) {const balance = await ethers.provider.getBalance(acc.address);console.log(`Compte #${i}: ${acc.address} - Solde: ${ethers.formatEther(balance)} ETH`);}
+await vault.connect(joe).deposit({ value: ethers.parseEther("3") });
+await vault.connect(joe).deposit_lockDuration(5, { value: ethers.parseEther("3") });
+joe
+joe = accounts[2]
+bault
+const bault = Vault.attach(alice);
+const vault = Vault.attach(alice);
+const zzzz = await Vault.attach(0x70997970C51812dc3A010C7d01b50e0d17dc79C8)
+const vault = await Vault.attach(0x70997970C51812dc3A010C7d01b50e0d17dc79C8)
+const Vault = await ethers.getContractFactory("Vault");
+const balance = await ethers.provider.getBalance(vault.address);
+for (const [i, acc] of accounts.entries()) {const balance = await ethers.provider.getBalance(acc.address);console.log(`Compte #${i}: ${acc.address} - Solde: ${ethers.formatEther(balance)} ETH`);}
+for (const [i, acc] of accounts.entries()) {const balance = await ethers.provider.getBalance(acc.address);console.log(`Compte #${i}: ${acc.address} - Solde: ${ethers.utils.formatEther(balance)} ETH`);}
+}  );    `Compte #${i}: ${acc.address} - Solde: ${ethers.utils.formatEther(balance)} ETH`  console.log(  const balance = await ethers.provider.getBalance(acc.address);for (const [i, acc] of accounts.entries()) {
+accounts.forEach((a, i) => console.log(i, a.address));
+accounts
+const accounts = await ethers.getSigners();
+await vault.connect(alice).deposit({ value: ethers.parseEther("5690") });
+await vault.connect(alice).deposit({ value: ethers.parseEther("1") });
+await vault.connect(alice).deposit({ value: ethers.utils.parseEther("1") });
+await vault.connect(alice).deposit_lockDuration(5, { value: ethers.utils.parseEther("1") });
+vault
+const vault = await ethers.getContractAt("Vault", "0x5fbdb2315678afecb367f032d93f642f64180aa3");
+const [owner, alice] = await ethers.getSigners();
+owner
+alice
+const [owner, alice] = await ethers.getSigners();
